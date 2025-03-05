@@ -8,6 +8,7 @@ source "$XDG_CONFIG_HOME/zsh/bindkeys.zsh"  # Key bindings
 source "$XDG_CONFIG_HOME/zsh/style.zsh"     # Prompt and appearance
 source "$XDG_CONFIG_HOME/zsh/aliases.zsh"   # Common aliases
 source "$XDG_CONFIG_HOME/zsh/tools.zsh"     # Tool-specific configurations
+source "$XDG_CONFIG_HOME/zsh/server.zsh"    # Server-specific configurations
 
 # Local machine-specific configuration
 local local_config="$XDG_CONFIG_HOME/zsh/local.zsh"
